@@ -1,3 +1,3 @@
 # RoadRun
-Crossy Road em Pygame
-Mapa e Obstáculos gerados automaticamente
+Crossy Road em Pygame. <br>
+Mapa e obstáculos são gerados automaticamente
